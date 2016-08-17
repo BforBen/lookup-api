@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lookup.System.Web", "Services.Lookups\Lookup.System.Web.csproj", "{051DE6FE-875F-410B-802C-2B464F873029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lookup.System.Web", "Lookup.System.Web\Lookup.System.Web.csproj", "{051DE6FE-875F-410B-802C-2B464F873029}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lookup.Api", "Lookup.Api\Lookup.Api.csproj", "{69882A4E-6CCD-4E6F-8289-631AEC58611D}"
 EndProject
